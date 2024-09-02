@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/scheduler-react-app/static/css/main.c62b5282.css",
+    "main.js": "/scheduler-react-app/static/js/main.b16650da.js",
+    "index.html": "/scheduler-react-app/index.html",
+    "main.c62b5282.css.map": "/scheduler-react-app/static/css/main.c62b5282.css.map",
+    "main.b16650da.js.map": "/scheduler-react-app/static/js/main.b16650da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c62b5282.css",
+    "static/js/main.b16650da.js"
+  ]
+}
